@@ -13,10 +13,6 @@ https://serverfault.com/a/333584
 
 https://averagelinuxuser.com/ssh-into-virtualbox/
 
-sudo apt install openssh-server
-
-sudo systemctl status ssh
-
 
 # 3 - UPGRADE PYTHON TO 3.8
 
