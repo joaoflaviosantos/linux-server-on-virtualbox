@@ -11,7 +11,7 @@ https://www.ceos3c.com/sysadmin/install-ubuntu-server-18-04-lts/
 https://serverfault.com/a/333584
 
 
-# 2 - INSTALL SSH SERVER (WITH VIRTUALBOX CONNECTION)
+# 2 - INSTALL SSH SERVER
 
 https://averagelinuxuser.com/ssh-into-virtualbox/
 
