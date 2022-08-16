@@ -39,6 +39,8 @@ https://stackoverflow.com/questions/19017825/how-to-run-oracle-virtualbox-vbox-l
 
 # 7 - CONNECT WITH VSCODE WITH SSH ON UBUNTU SERVER
 
+https://www.howtoforge.com/how-to-install-code-server-ide-on-ubuntu-1804/
+
 https://code.visualstudio.com/docs/remote/ssh
 
 
