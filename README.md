@@ -4,8 +4,6 @@ https://www.virtualbox.org/wiki/Downloads
 
 https://releases.ubuntu.com/18.04/ubuntu-18.04.6-live-server-amd64.iso
 
-https://www.topgadget.com.br/howto/linux/como-instalar-o-ubuntu-no-windows-10-com-o-virtualbox.htm
-
 https://www.ceos3c.com/sysadmin/install-ubuntu-server-18-04-lts/
 
 https://serverfault.com/a/333584
