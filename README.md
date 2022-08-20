@@ -30,7 +30,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-o
 https://linuxhandbook.com/docker-permission-denied/
 
 
-# 6 - RUN VIRTUALBOX ON SYSTEM CLOCK TRAY
+# 6 - RUN VIRTUALBOX ON BACKGROUND MODE
 
 https://stackoverflow.com/questions/19017825/how-to-run-oracle-virtualbox-vbox-like-a-service-after-boot-in-fully-backgro
 
