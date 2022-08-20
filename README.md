@@ -8,6 +8,8 @@ https://www.ceos3c.com/sysadmin/install-ubuntu-server-18-04-lts/
 
 https://serverfault.com/a/333584
 
+https://www.nakivo.com/blog/virtualbox-network-setting-guide/
+
 
 # 2 - INSTALL SSH SERVER
 
