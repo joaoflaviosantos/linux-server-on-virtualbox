@@ -44,6 +44,13 @@ https://www.howtoforge.com/how-to-install-code-server-ide-on-ubuntu-1804/
 https://code.visualstudio.com/docs/remote/ssh
 
 
+###  7 - EXPOSE VIRTUALBOX TO LOCAL NETWORK (BRIDGE MODE)
+
+https://www.linuxbabe.com/virtualbox/a-pretty-good-introduction-to-virtualbox-bridged-networking-mode
+
+https://www.limontec.com/2020/01/resolvido-virtualbox-placa-em-modo.html
+
+
 ### DOCKER COMMANDS
 
 docker container logs -f "container name"
